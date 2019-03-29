@@ -66,5 +66,5 @@ Pull Requests are welcomed. For major changes, please open an issue first to dis
 [!] Legal disclaimer: Usage of pwndb.py for attacking targets without
 prior mutual consent is illegal. It is the end user's responsibility
 to obey all applicable local, state and federal laws. Developers assume
-no liability and are not responsible for any misuse or damage caused.
+no liability and are not responsible for any misuse or damage caused..
 ```
