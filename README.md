@@ -46,7 +46,7 @@ Collecting PySocks==1.6.8 (from -r requirements.txt (line 1))
 usage: pwndb.py [-h] [--target TARGET] [--list LIST] [--output OUTPUT]
 
 optional arguments:
-  -h, --help       show this help message and exit
+  -h, --help       show this help message and exit.
   --target TARGET  Target email/domain to search for leaks.
   --list LIST      A list of emails in a file to search for leaks.
   --output OUTPUT  Return results as json/txt
